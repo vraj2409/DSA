@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
     public List<String> summaryRanges(int[] n1) {
         List<String> ans = new ArrayList<>();
         int n = n1.length;
