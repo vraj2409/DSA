@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public long countFairPairs(int[] nums, int lower, int upper) {
         Arrays.sort(nums);
